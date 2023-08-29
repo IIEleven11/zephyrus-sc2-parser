@@ -1,4 +1,4 @@
-# Zephyrus Replay Parser
+# Zephyrus Replay Parser.
 
 A robust and detailed parser for .SC2Replay files. Only 1v1 games are currently supported.
 
